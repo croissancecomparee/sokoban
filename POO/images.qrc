@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/character">
+        <file>PNG/Character4.ppm</file>
+        <file>PNG/Character4.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Mini_Monster_Cafe.png</file>
+        <file>PNG/Character4.ppm</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>

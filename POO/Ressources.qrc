@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Character4.ppm</file>
+        <file>WallRound_Gray.png</file>
+        <file>Character4.png</file>
+        <file>EndPoint_Blue.png</file>
+        <file>Crate_Brown.png</file>
+        <file>GroundGravel_Concrete.png</file>
+        <file>Crate_Blue.png</file>
+        <file>PNG/GroundGravel_Sand.png</file>
+        <file>PNG/Wall_Black.png</file>
+    </qresource>
+</RCC>
